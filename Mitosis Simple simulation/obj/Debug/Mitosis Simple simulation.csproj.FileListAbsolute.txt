@@ -1,0 +1,10 @@
+C:\Users\Dragi\Documents\Visual Studio 2017\Projects\Mitosis Simple simulation\Mitosis Simple simulation\bin\Debug\Mitosis Simple simulation.exe.config
+C:\Users\Dragi\Documents\Visual Studio 2017\Projects\Mitosis Simple simulation\Mitosis Simple simulation\bin\Debug\Mitosis Simple simulation.exe
+C:\Users\Dragi\Documents\Visual Studio 2017\Projects\Mitosis Simple simulation\Mitosis Simple simulation\bin\Debug\Mitosis Simple simulation.pdb
+C:\Users\Dragi\Documents\Visual Studio 2017\Projects\Mitosis Simple simulation\Mitosis Simple simulation\obj\Debug\Mitosis Simple simulation.csprojResolveAssemblyReference.cache
+C:\Users\Dragi\Documents\Visual Studio 2017\Projects\Mitosis Simple simulation\Mitosis Simple simulation\obj\Debug\Mitosis_Simple_simulation.Form1.resources
+C:\Users\Dragi\Documents\Visual Studio 2017\Projects\Mitosis Simple simulation\Mitosis Simple simulation\obj\Debug\Mitosis_Simple_simulation.Properties.Resources.resources
+C:\Users\Dragi\Documents\Visual Studio 2017\Projects\Mitosis Simple simulation\Mitosis Simple simulation\obj\Debug\Mitosis Simple simulation.csproj.GenerateResource.Cache
+C:\Users\Dragi\Documents\Visual Studio 2017\Projects\Mitosis Simple simulation\Mitosis Simple simulation\obj\Debug\Mitosis Simple simulation.csproj.CoreCompileInputs.cache
+C:\Users\Dragi\Documents\Visual Studio 2017\Projects\Mitosis Simple simulation\Mitosis Simple simulation\obj\Debug\Mitosis Simple simulation.exe
+C:\Users\Dragi\Documents\Visual Studio 2017\Projects\Mitosis Simple simulation\Mitosis Simple simulation\obj\Debug\Mitosis Simple simulation.pdb
