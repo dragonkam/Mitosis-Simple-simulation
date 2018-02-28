@@ -8,6 +8,6 @@ Anserw to youtube video from channel coding train: https://www.youtube.com/watch
 * cells have a chance  to split by yourself every 500 life cycles
 * cells dying after 2k cycles
 
-Clicking on watching cells is so satisfying :)
+Clicking and watching cells is so satisfying :)
 
 
